@@ -1,0 +1,17 @@
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Hillel_Lesson11_HW
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Hillel_Lesson11_HW.deps.json
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Hillel_Lesson11_HW.runtimeconfig.json
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Hillel_Lesson11_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Hillel_Lesson11_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.csproj.AssemblyReference.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.AssemblyInfoInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.AssemblyInfo.cs
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.csproj.CoreCompileInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/refint/Hillel_Lesson11_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.genruntimeconfig.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/ref/Hillel_Lesson11_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/bin/Debug/net7.0/Ninject.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/obj/Debug/net7.0/Hillel_Lesson11_HW.csproj.CopyComplete

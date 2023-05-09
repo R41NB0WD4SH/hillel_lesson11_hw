@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "35TKxYyLaGQwnDfRTdkSqodh3ld0numPpCt68xGl/uE7YkucWA2wnHfQlijfeG01cnZ51Gf6GkwBau4fcVWp6Q==",
+  "dgSpecHash": "GpWEHpNZKe1+m/vmSItjSFW5RQNUkhEUnsLpofFiUxZ1ZhVQnJrcy5nphmK2LW0W6cuZJ/L4pjcPtyGj1IPbDA==",
   "success": true,
   "projectFilePath": "/Users/denis.klimovets/Documents/GitHub/hillel_lesson11_hw/Hillel_Lesson11_HW/Hillel_Lesson11_HW.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/denis.klimovets/.nuget/packages/ninject/4.0.0-beta.1/ninject.4.0.0-beta.1.nupkg.sha512"
+  ],
   "logs": []
 }
